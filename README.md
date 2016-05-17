@@ -18,7 +18,7 @@ This will only work for sandboxes as no test class has been added to the repo so
 You may manually create the apex classes first within your org and then the visualforce page and the visual force component. 
 
 ### Usage
-Just place the custom component under the "apex:form" tag, assign the require properties.
+Just place the custom component anywhere in your apex page tag, assign the require properties.
 
 
 ```
