@@ -8,5 +8,10 @@
         <members>GenericRelatedList</members>
         <name>ApexComponent</name>
     </types>
+    <types>
+        <members>GenericRelatedListResource</members>
+        <members>DataTables1_10_6</members>
+        <name>StaticResource</name>
+    </types>
     <version>36.0</version>
 </Package>

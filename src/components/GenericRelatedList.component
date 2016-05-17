@@ -151,7 +151,7 @@
           </apex:outputPanel>
 
   </apex:pageBlock>
-  <apex:includeScript value="{!URLFOR($Resource.CloudContractsRes,'js/jquery-1.10.2.min.js')}" />
+  <apex:includeScript value="{!URLFOR($Resource.GenericRelatedListResource,'js/jquery-1.10.2.min.js')}" />
   <apex:includeScript value="{!URLFOR($Resource.DataTables1_10_6,'media/js/jquery.dataTables.min.js')}" />
   <script type="text/javascript">
       $(document).ready(function() {
