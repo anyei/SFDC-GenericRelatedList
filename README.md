@@ -41,3 +41,4 @@ Just place the custom component anywhere inside your apex page tag, assign the r
 ### TODO
 1. Produce better documentation and guide
 2. Review and clean code
+3. Include server side pagination.
